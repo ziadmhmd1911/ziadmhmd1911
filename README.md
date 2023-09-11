@@ -32,6 +32,7 @@
 <a href="https://www.python.org/" title="Python"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></a>
 <a href="https://www.cplusplus.com/" title="C++"><img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://img.shields.io/badge/JavaScript-%23f7df1e.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
+<a href="https://www.java.com/" title="Java"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" title="CSharp"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="CSharp"></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"></a>
 <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
@@ -43,8 +44,9 @@
 <a href="#" title="Supervised Learning"><img src="https://img.shields.io/badge/Supervised%20Learning-%23008cff.svg?style=for-the-badge" alt="Supervised Learning"></a>
 <a href="#" title="Unsupervised Learning"><img src="https://img.shields.io/badge/Unsupervised%20Learning-%23ff6f61.svg?style=for-the-badge" alt="Unsupervised Learning"></a>
 <a href="https://en.wikipedia.org/wiki/Natural_language_processing" title="NLP"><img src="https://img.shields.io/badge/NLP-%2346a2f1.svg?style=for-the-badge" alt="NLP"></a>
-
-
+<a href="https://www.tensorflow.org/" title="TensorFlow"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F61.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"></a>
+<a href="https://pytorch.org/" title="PyTorch"><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"></a>
+<a href="https://en.wikipedia.org/wiki/Data_science" title="Data Science"><img src="https://img.shields.io/badge/Data%20Science-%23276DC3.svg?style=for-the-badge" alt="Data Science"></a>
 </p>
 
 ## 📊 Github Stats
@@ -55,6 +57,9 @@
 	    <img alt="ziadmhmd1911's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ziadmhmd1911&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manarshahin48&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="manarshahin48" height="230px"/>
 <br/>
+
+## Codeforces Stats
+![Codeforces Rating](https://cf.leed.at?id=ZiadMohamed)
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
