@@ -65,7 +65,7 @@
 
 <p align="center">
     <a href="https://codeforces.com/profile/ZiadMohamed">
-	    <img alt="YOUR_HANDLE's Codeforces Stats" src="https://cf.leed.at?id=ZiadMohamed&legend=true" height="230px"/>
+	    <img alt="ZiadMohamed's Codeforces Stats" src="https://cf.leed.at?id=ZiadMohamed&legend=true" height="230px"/>
     </a>
 </p>
 <br/>
