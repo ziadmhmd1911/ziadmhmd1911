@@ -35,6 +35,13 @@
 <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
 <a href="https://www.w3.org/Style/CSS/" title="CSS3"><img src="https://img.shields.io/badge/css3-%23157122B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
 <a href="https://nodejs.org/" title="Node.js"><img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"></a>
+<a href="https://expressjs.com/" title="Express.js"><img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge" alt="Express.js"></a>
+<a href="https://www.mongodb.com/" title="MongoDB"><img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"></a>
+<a href="https://www.mysql.com/" title="MySQL"><img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
+<a href="#" title="Supervised Learning"><img src="https://img.shields.io/badge/Supervised%20Learning-%23008cff.svg?style=for-the-badge" alt="Supervised Learning"></a>
+<a href="#" title="Unsupervised Learning"><img src="https://img.shields.io/badge/Unsupervised%20Learning-%23ff6f61.svg?style=for-the-badge" alt="Unsupervised Learning"></a>
+<a href="https://en.wikipedia.org/wiki/Natural_language_processing" title="NLP"><img src="https://img.shields.io/badge/NLP-%2346a2f1.svg?style=for-the-badge" alt="NLP"></a>
+
 
 </p>
 
