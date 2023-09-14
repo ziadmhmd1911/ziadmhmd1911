@@ -10,7 +10,7 @@
 
 - :school: I am a `Senior Computer Science Student` from Faculty of Computers & Information at Ain Shams University
 - 🔭 I’m currently working on **Graduation Project**
-- 🌱 I’m currently studing `MERN STACK & ML & ML`
+- 🌱 I’m currently studying `MERN STACK & ML & ML`
 - 📫 How to reach me **ziadmhmd991@gmail.com**
 - :nerd_face: Always `learning new things`
 - 🐼 Doing my best 
