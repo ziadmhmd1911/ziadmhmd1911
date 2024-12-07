@@ -9,7 +9,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
 - :school: I am a `Senior Computer Science Student` from Faculty of Computers & Information at Ain Shams University
-- 🔭 I’m currently working on **Graduation Project**
+- 🔭 I’m currently working as **Software Developer**
 - 🌱 I’m currently studying `MERN STACK & ML & AI`
 - 📫 How to reach me **ziadmhmd991@gmail.com**
 - :nerd_face: Always `learning new things`
